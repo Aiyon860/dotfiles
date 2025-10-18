@@ -10,7 +10,7 @@ You can copy and modify it according to your liking ;)
 - [Tokyo Night (Storm)](https://github.com/folke/tokyonight.nvim) theme
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim) for majority of operations (Finder, Picker, Preview, etc)
 - [Conform](https://github.com/stevearc/conform.nvim) for code formatting
-- [Blink] for auto-completion
+- [Blink](https://github.com/Saghen/blink.nvim) for auto-completion
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) for status line
 - [Vim-sleuth](https://github.com/tpope/vim-sleuth) Auto indentation handled by
 - UI: [Snacks](https://github.com/folke/snacks.nvim), [dressing](https://github.com/stevearc/dressing.nvim), [noice](https://github.com/folke/noice.nvim), [dashboard](https://github.com/nvimdev/dashboard-nvim)
