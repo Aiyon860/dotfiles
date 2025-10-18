@@ -13,7 +13,7 @@ You can copy and modify it according to your liking ;)
 - [Blink](https://github.com/Saghen/blink.nvim) for auto-completion
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) for status line
 - [Vim-sleuth](https://github.com/tpope/vim-sleuth) Auto indentation handled by
-- UI: [Snacks](https://github.com/folke/snacks.nvim), [dressing](https://github.com/stevearc/dressing.nvim), [noice](https://github.com/folke/noice.nvim), [dashboard](https://github.com/nvimdev/dashboard-nvim)
+- UI: [Snacks](https://github.com/folke/snacks.nvim), [Dressing](https://github.com/stevearc/dressing.nvim), [Noice](https://github.com/folke/noice.nvim), [Dashboard](https://github.com/nvimdev/dashboard-nvim)
 - [Copilot](https://github.com/zbirenbaum/copilot.lua) for code suggestion and completion from AI
 - [Project](https://github.com/ahmedkhalf/project.nvim) for projects management
 - Majority of keymaps setting mostly attached to each plugin (check out in `nvim/lua/plugins` folder)
