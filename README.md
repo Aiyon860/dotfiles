@@ -14,17 +14,17 @@ You can copy and modify it according to your liking ;)
 - [Lualine](https://github.com/nvim-lualine/lualine.nvim) for status line
 - [Vim-sleuth](https://github.com/tpope/vim-sleuth) Auto indentation handled by
 - UI: [Snacks](https://github.com/folke/snacks.nvim), [Dressing](https://github.com/stevearc/dressing.nvim), [Noice](https://github.com/folke/noice.nvim), [Dashboard](https://github.com/nvimdev/dashboard-nvim)
-- [Copilot](https://github.com/zbirenbaum/copilot.lua) for code suggestion and completion from AI
+- [Copilot](https://github.com/zbirenbaum/copilot.lua) for code suggestion and completion from AI LLM
 - [Project](https://github.com/ahmedkhalf/project.nvim) for projects management
 - Majority of keymaps setting mostly attached to each plugin (check out in `nvim/lua/plugins` folder)
 - Miscellaneous:
     - [Cord](https://github.com/vyfor/cord.nvim) for showing discord status
-    - [show-keys](https://github.com/nvzone/showkeys) for showing what keys i already pressed
-    - [render-markdown](https://github.com/MeanderingProgrammer/render-markdown.nvim) for rendering visually good markdown result when in normal mode
-    - [which-key](https://github.com/folke/which-key.nvim) for showing keymaps combinations
-    - [nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) for ease of selecting block of texts
-    - [rustaceanvim](https://github.com/mrcjkb/rustaceanvim) for escalating rust experience
-    - [statusline-copilot](https://github.com/AndreM222/copilot-lualine) for showing copilot status as logo on the status line
+    - [Show-keys](https://github.com/nvzone/showkeys) for showing what keys i already pressed
+    - [Render-markdown](https://github.com/MeanderingProgrammer/render-markdown.nvim) for rendering visually good markdown result when in normal mode
+    - [Which-key](https://github.com/folke/which-key.nvim) for showing keymaps combinations
+    - [Nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) for ease of selecting block of texts
+    - [Rustaceanvim](https://github.com/mrcjkb/rustaceanvim) for escalating rust experience
+    - [Statusline-copilot](https://github.com/AndreM222/copilot-lualine) for showing copilot status as logo on the status line
 
 ---
 
