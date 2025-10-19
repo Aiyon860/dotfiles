@@ -3,6 +3,8 @@ return {
 	dependencies = {
 		"copilotlsp-nvim/copilot-lsp",
 	},
+	cmd = "Copilot",
+	lazy = true,
 	opts = {
 		suggestion = {
 			enabled = true,
@@ -22,6 +24,19 @@ return {
 				position = "right",
 				ratio = 0.4,
 			},
+		},
+	},
+	keys = {
+		{
+			"<leader>cp",
+			function()
+				if require("copilot.client").is_disabled() then
+					require("copilot.command").enable()
+				else
+					require("copilot.command").disable()
+				end
+			end,
+			desc = "Toggle Copilot",
 		},
 	},
 }

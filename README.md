@@ -5,9 +5,6 @@ You can copy and modify it according to your liking ;)
 ## Neovim
 
 - [Lazy](https://github.com/folke/lazy.nvim) for plugin manager
-- [Mason](https://github.com/mason-org/mason.nvim) for managing LSPs, DAPs, Linters, and Formatters
-- [Treesitter](https://github.com/nvim-treesitter/nvim-treesitter) for syntax highlighting
-- [Tokyo Night (Storm)](https://github.com/folke/tokyonight.nvim) theme
 - [Telescope](https://github.com/nvim-telescope/telescope.nvim) for majority of operations (Finder, Picker, Preview, etc)
 - [Conform](https://github.com/stevearc/conform.nvim) for code formatting
 - [Blink](https://github.com/Saghen/blink.nvim) for auto-completion
@@ -23,7 +20,6 @@ You can copy and modify it according to your liking ;)
     - [Render-markdown](https://github.com/MeanderingProgrammer/render-markdown.nvim) for rendering visually good markdown result when in normal mode
     - [Which-key](https://github.com/folke/which-key.nvim) for showing keymaps combinations
     - [Nvim-treesitter-textobjects](https://github.com/nvim-treesitter/nvim-treesitter-textobjects) for ease of selecting block of texts
-    - [Rustaceanvim](https://github.com/mrcjkb/rustaceanvim) for escalating rust experience
     - [Statusline-copilot](https://github.com/AndreM222/copilot-lualine) for showing copilot status as logo on the status line
 
 ---
